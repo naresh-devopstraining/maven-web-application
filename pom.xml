@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.153.209:8081/repository/facebook-releases/</url>
+	      <name>Naresh Pala Releases Nexus Repository</name>
+	      <url>http://3.109.153.209:8081/Naresh Pala/repository/facebook-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.153.209:8081/repository/facebook-snapshot/</url>
+	      <name>Naresh Pala Snapshot Nexus Repository </name>
+	      <url>http://3.109.153.209:8081/Naresh Pala/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
